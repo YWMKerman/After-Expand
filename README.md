@@ -18,3 +18,5 @@ Requirements:
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
 - [Singularity](https://spacedock.info/mod/2420/Singularity)
+
+  **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**

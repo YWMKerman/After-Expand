@@ -17,6 +17,15 @@ _In this mod, it adds multiple additional star systems to the originally monoton
 
 ***
 
+# _***Content :***_
+_The following star systems are the star systems added by ASSEX for AfterSolarSystem:_
+
+ - ## ***Moryan System***
+(An F9V main sequence star with multiple large planets, among which the satellite Morleng of the gas giant Moryann is a potential harbor for life. In addition, there is a high-gravity celestial body with 6 times the mass of the Earth and 1.5 times the radius of the Earth, a super ocean planet with about 15 times the mass of the Earth, a gas giant with 5 times the mass of Jupiter, and so on... They add a lot of challenges to the lonely game.)
+
+
+***
+
 # Mod Installation
 
 **Requirements:**

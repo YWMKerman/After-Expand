@@ -27,7 +27,7 @@ _The following star systems are the star systems added by ASSEX for AfterSolarSy
 
 ***
 # Compatibility:
-
+![Mars](https://github.com/user-attachments/assets/bcb82aa6-28a4-4bd3-b5e7-69a6e772a9ab)
 ASSEX is compatible with the following mods：
 
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)

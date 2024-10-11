@@ -32,9 +32,7 @@ _The following star systems are the star systems added by ASSEX for AfterSolarSy
 **Requirements:**
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- [KopernicusExpansion](https://github.com/StollD/KopernicusExpansion-Continued/releases/tag/release-1.7.1-5)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
-- [Singularity](https://spacedock.info/mod/2420/Singularity)
   
   **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**

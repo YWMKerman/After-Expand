@@ -24,6 +24,8 @@ _The following star systems are the star systems added by ASSEX for AfterSolarSy
    ![Moryan](https://github.com/user-attachments/assets/d3d9076d-6334-4d23-b2d4-222aaaf8a456)
 (An F9V main sequence star with multiple large planets, among which the satellite Morleng of the gas giant Moryann is a potential harbor for life. In addition, there is a high-gravity celestial body with 6 times the mass of the Earth and 1.5 times the radius of the Earth, a super ocean planet with about 15 times the mass of the Earth, a gas giant with 5 times the mass of Jupiter, and so on... They add a lot of challenges to the lonely game.)
 
+- ## ***ω Milkdromeda System***
+  （A multi-star system consisting of three stars: a white dwarf, a red giant that is larger and brighter than the sun, and a slightly more distant red dwarf. In the orbit closer to the red giant, there is a planet with a higher temperature and greater gravity. Its atmosphere becomes thinner due to the stellar wind of the red giant, so it would be difficult to reach it. The slightly more distant red dwarf has two planets, a super Earth and an ice giant. That super-Earth may be a world with habitable temperatures）
 
 ***
 # Compatibility:

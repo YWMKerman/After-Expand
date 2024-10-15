@@ -44,9 +44,7 @@ ASSEX is compatible with the following mods：
 # Mod Installation
 
 **Requirements:**
-- [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
-- [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
   
   **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**

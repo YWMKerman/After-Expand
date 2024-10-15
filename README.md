@@ -33,6 +33,7 @@ _The following star systems are the star systems added by ASSEX for AfterSolarSy
 ASSEX is compatible with the following mods：
 
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
+- [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases)
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
 

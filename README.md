@@ -45,6 +45,7 @@ ASSEX is compatible with the following mods：
 # Mod Installation
 
 **Requirements:**
+- [Singularity](https://github.com/LGhassen/Singularity/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
   

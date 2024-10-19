@@ -30,7 +30,7 @@ _The following star systems are the star systems added by ASSEX for AfterSolarSy
 
 - ## ***Q' geleet System***
   ![Two](https://github.com/user-attachments/assets/21d9b296-ef61-4134-93ac-1877d2d101da)
-  （A binary star system consisting of two stars, with 2 super-Earths, a mini ice giant that you can dive deep into its core, and a giant satellite with vacuum and high gravity)
+  （A binary star system consisting of multiple planets orbiting a pair of stars at the same time, containing multiple huge celestial bodies, including a super-Earth with huge mass and thin atmosphere; a giant satellite with vacuum and high gravity; a super-Earth with thick water vapor in the atmosphere. In addition, there is a mini ice giant whose core you can dive into)
   
 
 ***

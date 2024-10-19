@@ -28,6 +28,11 @@ _The following star systems are the star systems added by ASSEX for AfterSolarSy
 ![Three](https://github.com/user-attachments/assets/f6e9df58-5f5f-4ebd-9d20-aa154c576783)
   （A multi-star system consisting of three stars: a white dwarf, a red giant that is larger and brighter than the sun, and a slightly more distant red dwarf. In the orbit closer to the red giant, there is a planet with a higher temperature and greater gravity. Its atmosphere becomes thinner due to the stellar wind of the red giant, so it would be difficult to reach it. The slightly more distant red dwarf has two planets, a super Earth and an ice giant. That super-Earth may be a world with habitable temperatures）
 
+- ## ***Q' geleet System***
+  ![Two](https://github.com/user-attachments/assets/21d9b296-ef61-4134-93ac-1877d2d101da)
+  （A binary star system consisting of two stars, with 2 super-Earths, a mini ice giant that you can dive deep into its core, and a giant satellite with vacuum and high gravity)
+  
+
 ***
 # Compatibility:
 ![Mars](https://github.com/user-attachments/assets/bcb82aa6-28a4-4bd3-b5e7-69a6e772a9ab)

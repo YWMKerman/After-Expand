@@ -36,7 +36,7 @@ _**(An F9V main sequence star with multiple large planets, among which the satel
 
 ***
 # Compatibility and  Mod Installation:
-
+![211](https://github.com/user-attachments/assets/fbc4acc4-3dcb-4d46-94fd-dde88811002e)
 ## **Requirements:**
 - [Singularity](https://github.com/LGhassen/Singularity/releases)
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)

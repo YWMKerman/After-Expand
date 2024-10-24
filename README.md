@@ -25,8 +25,8 @@ _ASSEX adds a large number of extrasolar stars and planets to AfterSolarSystem. 
 
 
   - ## ***Q' geleet System***
-![awa](https://github.com/user-attachments/assets/9f7bf4e3-b0b2-43cf-b499-6d29d116730b)
-  （A binary star system consisting of multiple planets orbiting a pair of stars at the same time, containing multiple huge celestial bodies, including a super-Earth with huge mass and thin atmosphere; a giant satellite with vacuum and high gravity; a super-Earth with thick water vapor in the atmosphere. In addition, there is a mini ice giant whose core you can dive into)
+![TWO](https://github.com/user-attachments/assets/7f14685c-d051-478f-a1c6-7aaa8ad5184f)
+  _**（This is a binary star system a little far from us. It contains a planet with liquid water on its surface, but the current environment has seriously deteriorated; in addition, there is a vacuum world with huge gravity; a mini-Neptune whose core you can reach; a super-Earth planet with an extremely large volume but a very thin atmosphere. They all revolve around the pair of stars. It is a binary star system of a pair of K-type stars and an M-type star.)**_
 
   
  - ## ***Moryan System***

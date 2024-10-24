@@ -16,7 +16,7 @@ Finally, ASSEX is not entirely built by YWMKerman, the author of AfterSolarSyste
 ***
 
 # _***Content :***_
-_The following star systems are the star systems added by ASSEX for AfterSolarSystem:_
+_ASSEX adds a large number of extrasolar stars and planets to AfterSolarSystem. Due to space constraints, we cannot list them one by one. The following is a selection of star systems to show you their system conditions and planets and star types.:_
 
  - ## ***Moryan System***
 ![Morleng](https://github.com/user-attachments/assets/32739edf-b194-40b3-b299-fc5008fa4d7a)

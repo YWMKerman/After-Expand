@@ -18,18 +18,21 @@ Finally, ASSEX is not entirely built by YWMKerman, the author of AfterSolarSyste
 # _***Content :***_
 _ASSEX adds a large number of extrasolar stars and planets to AfterSolarSystem. Due to space constraints, we cannot list them one by one. The following is a selection of star systems to show you their system conditions and planets and star types.:_
 
+
+- ## ***ω Milkdromeda System***
+![three](https://github.com/user-attachments/assets/48a24d4c-5d5d-46f6-99eb-d99f8e69fba7)
+  _**（A multi-star system consisting of three stars: a white dwarf, a red giant that is larger and brighter than the sun, and a slightly more distant red dwarf. In the orbit closer to the red giant, there is a planet with a higher temperature and greater gravity. Its atmosphere becomes thinner due to the stellar wind of the red giant, so it would be difficult to reach it. The slightly more distant red dwarf has two planets, a super Earth and an ice giant. That super-Earth may be a world with habitable temperatures. It is the closest to us and the first place you can go after leaving the solar system）**_
+
+
+  - ## ***Q' geleet System***
+![awa](https://github.com/user-attachments/assets/9f7bf4e3-b0b2-43cf-b499-6d29d116730b)
+  （A binary star system consisting of multiple planets orbiting a pair of stars at the same time, containing multiple huge celestial bodies, including a super-Earth with huge mass and thin atmosphere; a giant satellite with vacuum and high gravity; a super-Earth with thick water vapor in the atmosphere. In addition, there is a mini ice giant whose core you can dive into)
+
+  
  - ## ***Moryan System***
 ![Morleng](https://github.com/user-attachments/assets/32739edf-b194-40b3-b299-fc5008fa4d7a)
 _**(An F9V main sequence star with multiple large planets, among which the satellite Morleng of the gas giant Moryann is a potential harbor for life. In addition, there is a high-gravity celestial body with 6 times the mass of the Earth and 1.5 times the radius of the Earth, a super ocean planet with about 15 times the mass of the Earth, a gas giant with 5 times the mass of Jupiter, and so on... They add a lot of challenges to the lonely game.)**_
 
-- ## ***ω Milkdromeda System***
-![three](https://github.com/user-attachments/assets/48a24d4c-5d5d-46f6-99eb-d99f8e69fba7)
-  _**（A multi-star system consisting of three stars: a white dwarf, a red giant that is larger and brighter than the sun, and a slightly more distant red dwarf. In the orbit closer to the red giant, there is a planet with a higher temperature and greater gravity. Its atmosphere becomes thinner due to the stellar wind of the red giant, so it would be difficult to reach it. The slightly more distant red dwarf has two planets, a super Earth and an ice giant. That super-Earth may be a world with habitable temperatures）**_
-
-- ## ***Q' geleet System***
-![awa](https://github.com/user-attachments/assets/9f7bf4e3-b0b2-43cf-b499-6d29d116730b)
-  （A binary star system consisting of multiple planets orbiting a pair of stars at the same time, containing multiple huge celestial bodies, including a super-Earth with huge mass and thin atmosphere; a giant satellite with vacuum and high gravity; a super-Earth with thick water vapor in the atmosphere. In addition, there is a mini ice giant whose core you can dive into)
-  
 
 ***
 # Compatibility:

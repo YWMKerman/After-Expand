@@ -35,9 +35,15 @@ _**(An F9V main sequence star with multiple large planets, among which the satel
 
 
 ***
-# Compatibility:
+# Compatibility and  Mod Installation:
 
-ASSEX is compatible with the following mods：
+## **Requirements:**
+- [Singularity](https://github.com/LGhassen/Singularity/releases)
+- [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
+  
+  **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
+
+## ASSEX is compatible with the following mods：
 
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases)
@@ -46,13 +52,6 @@ ASSEX is compatible with the following mods：
 
   _**It should be noted that if your AfterSolarSystem has Principia installed, please do not install this mod.**_
 
-***
 
-# Mod Installation
 
-**Requirements:**
-- [Singularity](https://github.com/LGhassen/Singularity/releases)
-- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
-  
-  **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
+

@@ -28,7 +28,12 @@ _ASSEX adds a large number of extrasolar stars and planets to AfterSolarSystem. 
 ![TWO](https://github.com/user-attachments/assets/7f14685c-d051-478f-a1c6-7aaa8ad5184f)
   _**（This is a binary star system a little far from us. It contains a planet with liquid water on its surface, but the current environment has seriously deteriorated; in addition, there is a vacuum world with huge gravity; a mini-Neptune whose core you can reach; a super-Earth planet with an extremely large volume but a very thin atmosphere. They all revolve around the pair of stars. It is a binary star system of a pair of K-type stars and an M-type star.)**_
 
-  
+
+
+  - ## ***SEQ 0139-1757/J1 System***
+![1647](https://github.com/user-attachments/assets/7ebd2931-bc1a-49e5-bb7a-4ba31f0991ca)
+_**(A star system similar to Kepler-1647b. It has a gas planet similar to Jupiter orbiting two stars similar to our current sun. Its rotation axis and orbital period are similar to our current earth. The most special thing is that this gas planet is located in the habitable zone of its parent star. It also has three satellites with large mass, one of which has an atmosphere and a temperature very close to our current earth. Another is a giant vacuum satellite with a radius similar to that of the earth, and another is a satellite slightly larger than the moon. There is also an irregular satellite farther away, providing fuel for the starship that arrives here.)**_
+    
  - ## ***Moryan System***
 ![Morleng](https://github.com/user-attachments/assets/32739edf-b194-40b3-b299-fc5008fa4d7a)
 _**(An F9V main sequence star with multiple large planets, among which the satellite Morleng of the gas giant Moryann is a potential harbor for life. In addition, there is a high-gravity celestial body with 6 times the mass of the Earth and 1.5 times the radius of the Earth, a super ocean planet with about 15 times the mass of the Earth, a gas giant with 5 times the mass of Jupiter, and so on... They add a lot of challenges to the lonely game.)**_

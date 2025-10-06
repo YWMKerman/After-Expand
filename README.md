@@ -30,9 +30,9 @@ _ASSEX adds a large number of extrasolar stars and planets to AfterSolarSystem. 
 
 
 
-  - ## ***SEQ 0139-1757/J1 System***
+  - ## ***Ruanxiao System***
 ![1647](https://github.com/user-attachments/assets/aee1b15f-4e2a-498d-ae46-4a6063171098)
-_**(A star system similar to Kepler-1647b. It has a gas planet similar to Jupiter orbiting two stars similar to our current sun. Its rotation axis and orbital period are similar to our current earth. The most special thing is that this gas planet is located in the habitable zone of its parent star. It also has three satellites with large mass, one of which has an atmosphere and a temperature very close to our current earth. Another is a giant vacuum satellite with a radius similar to that of the earth, and another is a satellite slightly larger than the moon. There is also an irregular satellite farther away, providing fuel for the starship that arrives here.)**_
+_**(A star system similar to Epsilon Eridani. It has a gas planet similar to Jupiter orbiting two stars similar to our current sun. Its rotation axis and orbital period are similar to our current earth. The most special thing is that this gas planet is located in the habitable zone of its parent star. It also has three satellites with large mass, one of which has an atmosphere and a temperature very close to our current earth. Another is a giant vacuum satellite with a radius similar to that of the earth, and another is a satellite slightly larger than the moon. There is also an irregular satellite farther away, providing fuel for the starship that arrives here.)**_
     
  - ## ***Moryan System***
 ![Morleng](https://github.com/user-attachments/assets/32739edf-b194-40b3-b299-fc5008fa4d7a)

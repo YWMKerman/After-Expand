@@ -17,7 +17,7 @@ Finally, ASSEX is not entirely built by YWMKerman, the author of AfterSolarSyste
 <img width="1920" height="741" alt="001" src="https://github.com/user-attachments/assets/c7785ca1-2a9a-4154-91cf-fa5614949d23" />
 
 ## **Requirements:**
-- [Singularity](https://github.com/LGhassen/Singularity/releases)
+
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 
   _**It should be noted that if your AfterSolarSystem has Principia installed, please do not install this mod.**_

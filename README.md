@@ -19,6 +19,14 @@ Finally, ASSEX is not entirely built by YWMKerman, the author of AfterSolarSyste
 ## **Requirements:**
 
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
+- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+
+## **AfterSolarSystemExpand is compatible with (or provides support for) the following mods：**
+
+- Scatterer
+- EnvironmentalVisualEnhancements
+- Distant Object Enhancement
+- PlanetShine
 
   _**It should be noted that if your AfterSolarSystem has Principia installed, please do not install this mod.**_
 

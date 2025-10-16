@@ -43,6 +43,7 @@ Due to KSP’s floating origin and precision issues, you may encounter graphical
 - “cracked” terrain
 - surface “mosaic” glitches
 - or physics instability
+
 These effects become more common when you travel several light-years away from the original solar system.
  ***Tip: If you use the in-game console to teleport a vessel directly to a distant star system,
 these issues will almost certainly occur.

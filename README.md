@@ -58,6 +58,7 @@ then manually descend to the surface.***
 
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+- No Principia
 
 ## **AfterSolarSystemExpand is compatible with (or provides support for) the following mods：**
 

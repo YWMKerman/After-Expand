@@ -66,6 +66,7 @@ then manually descend to the surface.***
 - EnvironmentalVisualEnhancements
 - Distant Object Enhancement
 - PlanetShine
+- ParallaxContinued
 
   _**It should be noted that if your AfterSolarSystem has Principia installed, please do not install this mod.**_
 

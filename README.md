@@ -51,14 +51,8 @@ To minimize them, first teleport your craft into a high, stable orbit around the
 then manually descend to the surface.***
 
 ***
-# Compatibility and  Mod Installation:
-<img width="1920" height="741" alt="001" src="https://github.com/user-attachments/assets/c7785ca1-2a9a-4154-91cf-fa5614949d23" />
-
-## **Requirements:**
-
-- [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
-- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- No Principia
+# _Compatibility and  Mod Installation:_
+<img width="2500" height="862" alt="awa" src="https://github.com/user-attachments/assets/dcc9d564-526b-4fbf-a11e-95930010caae" />
 
 ## **AfterSolarSystemExpand is compatible with (or provides support for) the following mods：**
 
@@ -68,8 +62,20 @@ then manually descend to the surface.***
 - PlanetShine
 - ParallaxContinued
 
-  _**It should be noted that if your AfterSolarSystem has Principia installed, please do not install this mod.**_
+## **AfterSolarSystem is not compatible with the following mods：**
 
+- Principia
+- External visual mods (RVE, RSSVE, EVO, etc.)
+- External planet mods (RealSolarSystem, RealExpand, AfterKerbin, BeyondHome, etc.)
+  
+***
+# _**Installation:**_
+
+**Requirements:**
+- [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
+- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+
+ *↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData*
 
 
 

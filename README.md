@@ -70,6 +70,7 @@ then manually descend to the surface.***
   
 ***
 # _**Installation:**_
+<img width="1920" height="851" alt="Trappist-1e" src="https://github.com/user-attachments/assets/1f6c9b2e-3c1e-4c58-965a-54b67a35c9e7" />
 
 **Requirements:**
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)

@@ -90,18 +90,18 @@ Please make sure that Principia is **not** installed in your GameData directory�
 
 Q: _**Why does AfterSolarSystemExpand appear so large, yet the number of celestial bodies seems small?**_
 
-A: Unlike traditional planet expansions, AfterSolarSystemExpand uses real-world scale celestial bodies rather than Kerbal Space Program’s scaled-down system.
-Because of this, each planet requires high-resolution textures (8K or higher) to maintain visual quality. This results in a much larger overall mod size, even though the number of celestial bodies may appear smaller.
+A: *Unlike traditional planet expansions, AfterSolarSystemExpand uses real-world scale celestial bodies rather than Kerbal Space Program’s scaled-down system.
+Because of this, each planet requires high-resolution textures (8K or higher) to maintain visual quality. This results in a much larger overall mod size, even though the number of celestial bodies may appear smaller.*
 
 Q: _**Why is AfterSolarSystemExpand incompatible with Principia?**_
 
-A: Principia implements N-body physics, meaning it continuously simulates the gravitational interactions of all celestial bodies at once.
-In AfterSolarSystemExpand, this involves dozens of solar systems, causing extreme lag and long-term orbital instability. Over time, this can lead to planets or even entire systems being ejected or colliding.
+A: *Principia implements N-body physics, meaning it continuously simulates the gravitational interactions of all celestial bodies at once.
+In AfterSolarSystemExpand, this involves dozens of solar systems, causing extreme lag and long-term orbital instability. Over time, this can lead to planets or even entire systems being ejected or colliding.*
 
 Q: _**Why are some hot gas giants in AfterSolarSystemExpand blue or white?**_
 
-A: According to Sudarsky’s gas giant classification, gas giants with equilibrium temperatures above 250 K are classified as Class II (Water Clouds), which appear white due to reflective water clouds.
-At even higher temperatures, they become Class III (Cloudless) — appearing blue because their atmospheres lack thick condensate clouds, allowing Rayleigh scattering to dominate.
+A: *According to Sudarsky’s gas giant classification, gas giants with equilibrium temperatures above 250 K are classified as Class II (Water Clouds), which appear white due to reflective water clouds.
+At even higher temperatures, they become Class III (Cloudless) — appearing blue because their atmospheres lack thick condensate clouds, allowing Rayleigh scattering to dominate.*
 ***
 
 

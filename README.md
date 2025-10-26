@@ -38,7 +38,7 @@ While fictional, their planetary architectures, atmospheres, and physical parame
 AEX is designed as a counterpart to RealExpand, but with a stronger emphasis on scientific consistency and future plausibility.
 It’s meant to complement the AfterSolarSystem mod, extending your journey beyond the far-future Sun into the wider cosmos.
 
- ### Known Limitations
+ ## _**Known Limitations**_
 Due to KSP’s floating origin and precision issues, you may encounter graphical artifacts such as:
 - “cracked” terrain
 - surface “mosaic” glitches
@@ -67,16 +67,21 @@ then manually descend to the surface.***
 - Principia
 - External visual mods (RVE, RSSVE, EVO, etc.)
 - External planet mods (RealSolarSystem, RealExpand, AfterKerbin, BeyondHome, etc.)
-  
+
 ***
 # _**Installation:**_
 <img width="1600" height="800" alt="Trappist1" src="https://github.com/user-attachments/assets/8104ffa9-5e71-4d0a-a030-45dc8aa9a39b" />
 
-**Requirements:**
+### **_Requirements:_**
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 
+  
  *↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData*
+  
+### **_before opening the game:_**
+Please make sure that Principia is **not** installed in your GameData directory！
 
+***
 
 

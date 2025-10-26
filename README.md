@@ -85,6 +85,7 @@ Please make sure that Principia is **not** installed in your GameData directoryï
 ***
 
 # _Contact or learn more:_
+<img width="1920" height="952" alt="More" src="https://github.com/user-attachments/assets/dcbf98f2-4ac6-47dd-b0c1-02e5fb03dfc3" />
 
 ## _**Questions and Answers**_
 

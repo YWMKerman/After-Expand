@@ -115,6 +115,14 @@ and save it.
 
 ## _**Questions and Answers**_
 
+_**Q: Why is installing AfterExpand so cumbersome in the RealSolarSystem environment?**_
+
+A: Because the early development of RealSolarSystem was quite limited and poorly structured. In its initial versions, it strictly restricted the appearance of any celestial bodies that did not actually exist in our Solar System. In other words, only real, historically known Solar System objects were allowed, and all other planets or stars were automatically blocked.
+As a result, there are two possible ways to install AfterExpand under RealSolarSystem:
+
+-	Direct replacement – simply copy and overwrite the existing files.
+-	Manual configuration – manually edit the restricted configuration files to allow additional celestial bodies to appear.
+
 Q: _**Why does AfterSolarSystemExpand appear so large, yet the number of celestial bodies seems small?**_
 
 A: *Unlike traditional planet expansions, AfterSolarSystemExpand uses real-world scale celestial bodies rather than Kerbal Space Program’s scaled-down system.

@@ -81,7 +81,7 @@ then manually descend to the surface.***
 ## **_before opening the game:_**
 Please make sure that Principia is **not** installed in your GameData directory！
 
-## **_Installation method under RealSolarSystem_**
+## **_Installation method under RealSolarSystem：_**
 
 - No.1 The AfterExpand installation package already includes a RealSolarSystem installation patch. You can simply drag it along with AfterExpand mod into GameData to replace the original mod.
 - NO.2 The second method is to manually open the ```GameData/RealSolarSystem/```directory, find ```RSSKopernicusSettings.cfg```, open it with Notepad, find       ```!Body,* {} ```

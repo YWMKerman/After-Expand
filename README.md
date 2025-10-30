@@ -66,21 +66,47 @@ then manually descend to the surface.***
 
 - Principia
 - External visual mods (RVE, RSSVE, EVO, etc.)
-- External planet mods (RealSolarSystem, RealExpand, AfterKerbin, BeyondHome, etc.)
+- External planet mods (RealExpand, AfterKerbin, BeyondHome, etc.)
 
 ***
 # _**Installation:**_
 <img width="1600" height="800" alt="Trappist-1" src="https://github.com/user-attachments/assets/c94bc228-299b-44e0-b0a9-e022e9095ab4" />
 
 ### **_Requirements:_**
-- [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
+
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 
-  
  *↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData*
   
-### **_before opening the game:_**
+## **_before opening the game:_**
 Please make sure that Principia is **not** installed in your GameData directory！
+
+## **_Installation method under RealSolarSystem_**
+
+- No.1 The AfterExpand installation package already includes a RealSolarSystem installation patch. You can simply drag it along with AfterExpand mod into GameData to replace the original mod.
+- NO.2 The second method is to manually open the ```GameData/RealSolarSystem/```directory, find ```RSSKopernicusSettings.cfg```, open it with Notepad, find       ```!Body,* {} ```
+in the text and replace it with
+```
+    !Body[Sun] {}  	  
+	!Body[Moho] {}   
+	!Body[Eve] {}     
+	!Body[Gilly] {}
+	!Body[Kerbin] {}    
+	!Body[Mun] {}   
+	!Body[Minmus] {} 
+	!Body[Duna] {} 
+	!Body[Ike] {} 
+	!Body[Dres] {}  
+	!Body[Jool] {}   
+	!Body[Laythe] {}   
+	!Body[Vall] {}   
+	!Body[Tylo] {}   
+	!Body[Bop] {}   
+	!Body[Pol] {}   
+	!Body[Eeloo] {}
+```
+and save it.
+
 
 ***
 

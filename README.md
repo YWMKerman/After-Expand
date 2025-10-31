@@ -1,4 +1,4 @@
-# _The AfterExpand Mod_
+# _The AfterExoplanets Mod_
 
 
 _“来了，爱了，给Ta一颗星星，走了”_

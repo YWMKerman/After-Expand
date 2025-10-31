@@ -12,7 +12,7 @@ See what our cosmic neighborhood might look like billions of years from now."_
 
 ***
 
-AfterExpand (AEX) is a Kerbal Space Program (KSP) mod that expands upon the AfterSolarSystem project.
+After Exoplanets / AfterExpand (AEX) is a Kerbal Space Program (KSP) mod that expands upon the AfterSolarSystem project.
 It adds at least 10 scientifically plausible nearby star systems for you to explore — all modeled as they might appear billions of years in the future, when the Sun has evolved into its red giant stage.
 _**In AEX, the positions of nearby stars are assumed to remain roughly unchanged. Based on that, the mod presents a speculative but realistic future snapshot of the solar neighborhood, featuring:**_
 
